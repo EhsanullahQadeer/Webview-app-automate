@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "onesignal-xcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-XCFramework",
+      "state" : {
+        "revision" : "5916c9946571047377061dc3c88e54cd4e866beb",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "swiftystorekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bizz84/SwiftyStoreKit.git",
+      "state" : {
+        "revision" : "9ce911639680113dac9b554d6243e406a9758ebe",
+        "version" : "0.16.4"
+      }
+    },
+    {
+      "identity" : "wkdownloadhelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gualtierofrigerio/WKDownloadHelper.git",
+      "state" : {
+        "revision" : "3a13843e37a4bdcbeca9f9357c17fec77893fa3a",
+        "version" : "0.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
